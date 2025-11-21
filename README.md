@@ -28,7 +28,3 @@ Setiap pertemuan akan dilengkapi dengan link menuju notebook **Google Colab** ya
 | 2 | **Pertemuan 2** | Penjelasan Bab 2 — Pengantar Basis Data & DDL (di Colab) | https://colab.research.google.com/drive/1IGGCODzwjQAhN4BLd5oGw631S6vrQUld?usp=sharing |
 
 
----
-
-## 📁 Struktur Repository
-
