@@ -26,6 +26,7 @@ Setiap pertemuan akan dilengkapi dengan link menuju notebook **Google Colab** ya
 |----|--------|-----------|--------|
 | 1 | **Pertemuan 1** | Penjelasan Bab 1 — ERD (di Colab) | https://colab.research.google.com/notebooks/intro.ipynb |
 | 2 | **Pertemuan 2** | Penjelasan Bab 2 — Pengantar Basis Data & DDL (di Colab) | https://colab.research.google.com/drive/1IGGCODzwjQAhN4BLd5oGw631S6vrQUld?usp=sharing |
-| 3 | **Pertemuan 3** | Tugas Bab 3 — Pengoperasian SQL Menggunakan CLI (di Colab) | usp=sharing]https://colab.research.google.com/drive/16RI4ZJJ7VqYSN-ZACRCShb1YLgMNCs3W?usp=sharing |
-| 4 | **Pertemuan 3** | Penjelasan Bab 4 — Skema Order Entry & Rangkuman ALTER TABLE dan DROP TABLE | https://colab.research.google.com/drive/1NAQEPc4FoA7XSMF7d2Z0hnVhFsuqcqDo?usp=sharing |
+| 3 | **Pertemuan 3** | Penjelasan Bab 3 — Pengoperasian SQL Menggunakan CLI (di Colab) | usp=sharing]https://colab.research.google.com/drive/16RI4ZJJ7VqYSN-ZACRCShb1YLgMNCs3W?usp=sharing |
+| 4 | **Pertemuan 4** | Penjelasan Bab 4 — Skema Order Entry & Rangkuman ALTER TABLE dan DROP TABLE | https://colab.research.google.com/drive/1NAQEPc4FoA7XSMF7d2Z0hnVhFsuqcqDo?usp=sharing |
+| 5 | **Pertemuan 5** | Penjelasan Bab 5 — Data Manipulation Language: Insert, Select, Update, Delete, dan Query Bersyarat | https://colab.research.google.com/drive/1zdxyt6gd3NVUPVbFpj-s6ujnsu2Ommt6?usp=sharing |
 
